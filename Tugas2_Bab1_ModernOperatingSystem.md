@@ -2509,6 +2509,9 @@ systems work differently.
 In all cases, the operating system code is directly executed by the hardware,
 with no interpreter and no just-in-time compilation, as is normal with Java.
 
+## **1.9 RESEARCH ON OPERATING SYSTEMS**
+
+
 
 
 
